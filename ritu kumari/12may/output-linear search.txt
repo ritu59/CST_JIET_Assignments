@@ -1,0 +1,3 @@
+============== RESTART: C:/Users/hp/Desktop/Q2-linear search.py ==============
+enter the element to be searched: 45
+found at( 1 , 3 )

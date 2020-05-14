@@ -1,0 +1,2 @@
+=================== RESTART: C:/Python36/q3-odd number.py ===================
+output 2

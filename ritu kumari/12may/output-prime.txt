@@ -1,0 +1,2 @@
+================== RESTART: C:/Users/hp/Desktop/q1-prime.py ==================
+Number of adjacent prime number sum:  6
